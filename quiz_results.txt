@@ -1,0 +1,39 @@
+Student Name: al amin
+Student ID: 444
+Correct Answers: 0/5
+
+Question 1: What does the ++ operator do?
+A) Add two to a number
+B) Add one to a number
+C) Subtract one from a number
+D) Subtract two from a number
+Correct Answer: B
+
+Question 2: C is a successor of which language?
+A) B
+B) C++
+C) Python
+D) Java
+Correct Answer: A
+
+Question 3: When is a do-while loop condition checked?
+A) Before the loop body executes
+B) Never
+C) While the loop body executes
+D) After the loop body executes
+Correct Answer: D
+
+Question 4: What does a pointer variable store?
+A) A floating-point number
+B) A string
+C) A memory address
+D) An array
+Correct Answer: C
+
+Question 5: How can we check if x does not equal y in C?
+A) x <> y
+B) x != y
+C) x === y
+D) x DNE y
+Correct Answer: B
+
